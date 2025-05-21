@@ -1,8 +1,8 @@
 === Adventurous ===
 Contributors: catchthemes
 Tags: black, blue, gray, green, white, dark,light, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, holiday, photoblogging
-Requires at least: 5.6
-Tested up to: 6.6
+Requires at least: 5.9
+Tested up to: 6.8
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -54,6 +54,9 @@ You can check our Theme Demo at https://catchthemes.com/demo/adventurous/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 3.5.1 (Released: May 21, 2025) =
+* Updated: WordPress 6.8 ready
 
 = 3.5 (Released: August 28, 2024) =
 * Bug Fixed: Escaping author display name
@@ -304,7 +307,7 @@ Note: Now to setup of Page as blog, go to "Settings => Readings". In Front page 
 
 == Copyright ==
 
-Adventurous WordPress Theme, Copyright 2012-2023 Catchthemes.com
+Adventurous WordPress Theme, Copyright 2012-2025 Catchthemes.com
 Adventurous is distributed under the terms of the GNU GPL
 
 == Resources ==

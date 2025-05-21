@@ -1,11 +1,11 @@
-# Copyright (C) 2016-2022 the Catch Themes Team
+# Copyright (C) 2016-2025 the Catch Themes Team
 # This file is distributed under the  GNU General Public License.
 msgid ""
 msgstr ""
 "Project-Id-Version: Adventurous\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2024-08-28 22:03+0545\n"
-"PO-Revision-Date: 2024-08-28 22:03+0545\n"
+"POT-Creation-Date: 2025-05-21 13:51+0545\n"
+"PO-Revision-Date: 2025-05-21 13:52+0545\n"
 "Last-Translator: Sakin Shrestha <info@catchthemes.com>\n"
 "Language-Team: Dinnye <pdinnye@gmail.com>\n"
 "Language: hu_HU\n"
@@ -16,7 +16,7 @@ msgstr ""
 "X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
 "X-Poedit-SourceCharset: UTF-8\n"
-"X-Generator: Poedit 3.4.4\n"
+"X-Generator: Poedit 3.6\n"
 "X-Poedit-SearchPath-0: ..\n"
 
 #: ../404.php:17
@@ -922,8 +922,8 @@ msgstr "Archívum"
 #~ "Height 144px height, which will support High Resolution Devices like iPad "
 #~ "Retina."
 #~ msgstr ""
-#~ "Megjegyzés: Honlap Klipp Ikon az Apple eszközökhöz. Ajánlott méret -"
-#~ "szélesség 144px és magasság 144px, amely támogatja a nagy felbontású "
+#~ "Megjegyzés: Honlap Klipp Ikon az Apple eszközökhöz. Ajánlott méret "
+#~ "-szélesség 144px és magasság 144px, amely támogatja a nagy felbontású "
 #~ "eszközök, mint a iPad Retina."
 
 #~ msgid "Menu Options"
