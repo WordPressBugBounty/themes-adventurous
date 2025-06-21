@@ -4,7 +4,7 @@ Theme URI: https://catchthemes.com/themes/adventurous
 Author: Catch Themes
 Author URI: https://catchthemes.com
 Description: Adventurous is a Simple, Clean, Minimal, Lightweight, Box-Shaped and Full-Width Responsive WordPress Theme. It is based in HTML5, CSS3 and very own Catch Themes easy to use Theme Options panel, which make this theme highly customizable and flexible.  Make your beautiful yet professional website in no time. Adventurous is a multi-purpose theme and is suitable for Photographers, Bloggers and Businesses. This theme is translation ready and also currently translated in Brazilian Portuguese, Hungarian, Dutch, German, Polish, Danish and Czech languages. Supports popular plugins like WP-PageNavi, Jetpack, Contact Form 7, Catch Web Tools and more. Check out Theme Instructions at https://catchthemes.com/theme-instructions/adventurous/, Support at https://catchthemes.com/support/ and Demo at https://catchthemes.com/demo/adventurous/
-Version: 3.5.1
+Version: 3.5.2
 Requires at least: 5.9
 Tested up to: 6.8
 Requires PHP: 5.6
@@ -2122,6 +2122,30 @@ ul.social-profile li.meetup a {
 }
 ul.social-profile li.meetup a:hover {
 	background-position: -1205px -43px;
+}
+ul.social-profile li.x a {
+	background-position: -1248px 0;
+}
+ul.social-profile li.x a:hover {
+	background-position: -1248px -43px;
+}
+ul.social-profile li.bluesky a {
+	background-position: -1291px 0;
+}
+ul.social-profile li.bluesky a:hover {
+	background-position: -1291px -43px;
+}
+ul.social-profile li.tiktok a {
+	background-position: -1334px 0;
+}
+ul.social-profile li.tiktok a:hover {
+	background-position: -1334px -43px;
+}
+ul.social-profile li.threads a {
+	background-position: -1377px 0;
+}
+ul.social-profile li.threads a:hover {
+	background-position: -1377px -43px;
 }
 ul.social-profile li.custom-social a {
 	background: none;

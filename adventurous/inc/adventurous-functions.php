@@ -581,6 +581,7 @@ function adventurous_social_networks() {
 
 	$elements = array( 	$options['social_facebook'],
 						$options['social_twitter'],
+						$options['social_x'],
 						$options['social_googleplus'],
 						$options['social_linkedin'],
 						$options['social_pinterest'],
@@ -608,7 +609,10 @@ function adventurous_social_networks() {
 						$options['social_email'],
 						$options['social_contact'],
 						$options['social_xing'],
-						$options['social_meetup']
+						$options['social_meetup'],
+						$options['social_bluesky'],
+						$options['social_tiktok'],
+						$options['social_threads']
 					);
 	$flag = 0;
 	if ( !empty( $elements ) ) {
@@ -639,6 +643,11 @@ function adventurous_social_networks() {
 			if ( !empty( $options['social_twitter'] ) ) {
 				$adventurous_social_networks .=
 					'<li class="twitter"><a href="'.esc_url( $options['social_twitter'] ).'" title="'. esc_attr__( 'Twitter', 'adventurous' ) .'" target="_blank">'. esc_attr__( 'Twitter', 'adventurous' ) .'</a></li>';
+			}
+			//X Twitter
+			if (!empty($options['social_x'])) {
+				$adventurous_social_networks .=
+					'<li class="x"><a href="' . esc_url($options['social_x']) . '" title="' . esc_attr__('X Twitter', 'adventurous') . '" target="_blank">' . esc_attr__('X Twitter', 'adventurous') . '</a></li>';
 			}
 			//Google+
 			if ( !empty( $options['social_googleplus'] ) ) {
@@ -780,6 +789,22 @@ function adventurous_social_networks() {
 				$adventurous_social_networks .=
 					'<li class="meetup"><a href="'.esc_url( $options['social_meetup'] ).'" title="'. esc_attr__( 'Meetup', 'adventurous' ) .'" target="_blank">'. esc_attr__( 'Meetup', 'adventurous' ) .'</a></li>';
 			}
+			//Bluesky
+			if (!empty($options['social_bluesky'])) {
+				$adventurous_social_networks .=
+					'<li class="bluesky"><a href="' . esc_url($options['social_bluesky']) . '" title="' . esc_attr__('Bluesky', 'adventurous') . '" target="_blank">' . esc_attr__('Bluesky', 'adventurous') . '</a></li>';
+			}
+			//Tiktok
+			if (!empty($options['social_tiktok'])) {
+				$adventurous_social_networks .=
+					'<li class="tiktok"><a href="' . esc_url($options['social_tiktok']) . '" title="' . esc_attr__('Tiktok', 'adventurous') . '" target="_blank">' . esc_attr__('Tiktok', 'adventurous') . '</a></li>';
+			}
+			//Threads
+			if (!empty($options['social_threads'])) {
+				$adventurous_social_networks .=
+					'<li class="threads"><a href="' . esc_url($options['social_threads']) . '" title="' . esc_attr__('Threads', 'adventurous') . '" target="_blank">' . esc_attr__('Threads', 'adventurous') . '</a></li>';
+			}
+
 
 			$adventurous_social_networks .='
 		</ul>';

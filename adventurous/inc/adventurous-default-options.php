@@ -65,6 +65,7 @@ function adventurous_get_defaults( $parameter = null ) {
 		'disable_scrollup'              => '0',
 		'social_facebook'               => '',
 		'social_twitter'                => '',
+		'social_x'                      => '',
 		'social_googleplus'             => '',
 		'social_pinterest'              => '',
 		'social_youtube'                => '',
@@ -93,6 +94,9 @@ function adventurous_get_defaults( $parameter = null ) {
 		'social_contact'                => '',
 		'social_xing'                   => '',
 		'social_meetup'                 => '',
+		'social_bluesky'                => '',
+		'social_tiktok'                 => '',
+		'social_threads'                => '',
 		'footer_code'                   => '<div class="copyright">'. esc_attr__( 'Copyright', 'adventurous' ) . ' &copy; ' . adventurous_the_year() . '&nbsp;' . adventurous_site_link() . '&nbsp;' . esc_attr__( 'All Rights Reserved.', 'adventurous' ) . ' ' . get_the_privacy_policy_link() . '</div><div class="powered">'. esc_attr__( 'Adventurous Theme by', 'adventurous' ) . '&nbsp;' . adventurous_shop_link() . '</div>',
 		'reset_footer'                  => 0
 	);

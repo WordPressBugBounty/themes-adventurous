@@ -672,6 +672,16 @@ function adventurous_customize_register( $wp_customize ) {
 			'section' 		=> 'predefined_social_icons',
 			'default' 		=> $defaults['social_twitter']
 		),
+		'social_x' => array(
+			'id' 			=> 'social_x',
+			'title' 		=> esc_html__('X Twitter', 'adventurous'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_x']
+		),
 		'social_googleplus' => array(
 			'id' 			=> 'social_googleplus',
 			'title' 		=> esc_html__( 'Google+', 'adventurous' ),
@@ -951,6 +961,36 @@ function adventurous_customize_register( $wp_customize ) {
 			'panel' 		=> 'social_links',
 			'section' 		=> 'predefined_social_icons',
 			'default' 		=> $defaults['social_meetup']
+		),
+		'social_bluesky' => array(
+			'id' 			=> 'social_bluesky',
+			'title' 		=> esc_html__('Bluesky', 'adventurous'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_bluesky']
+		),
+		'social_tiktok' => array(
+			'id' 			=> 'social_tiktok',
+			'title' 		=> esc_html__('Tiktok', 'adventurous'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_tiktok']
+		),
+		'social_threads' => array(
+			'id' 			=> 'social_threads',
+			'title' 		=> esc_html__('Threads', 'adventurous'),
+			'description'	=> '',
+			'field_type' 	=> 'url',
+			'sanitize' 		=> 'esc_url_raw',
+			'panel' 		=> 'social_links',
+			'section' 		=> 'predefined_social_icons',
+			'default' 		=> $defaults['social_threads']
 		),
 	);
 

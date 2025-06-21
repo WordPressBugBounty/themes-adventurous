@@ -55,6 +55,9 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 3.5.2 (Released: June 21, 2025) =
+* Added: Twitter X, Threads, Bluesky, and Tiktok icons
+
 = 3.5.1 (Released: May 21, 2025) =
 * Updated: WordPress 6.8 ready
 
