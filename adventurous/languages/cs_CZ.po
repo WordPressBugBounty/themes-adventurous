@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Adventurous\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-21 20:40+0545\n"
+"POT-Creation-Date: 2025-09-23 12:51+0545\n"
 "PO-Revision-Date: \n"
 "Last-Translator: Dan Frolec <dan@frolec.cz>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "PO-Creation-Date: 2016-02-19 23:11+0545\n"
 "X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;esc_attr_e;esc_attr__\n"
 "X-Poedit-Basepath: .\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 "X-Poedit-SearchPath-0: ..\n"
 
@@ -242,11 +242,11 @@ msgstr "Všechna práva vyhrazena"
 msgid "Adventurous Theme by"
 msgstr "Adventurous šablona od"
 
-#: ../inc/adventurous-default-options.php:148
+#: ../inc/adventurous-default-options.php:149
 msgid "https://catchthemes.com"
 msgstr "https://catchthemes.com"
 
-#: ../inc/adventurous-default-options.php:148
+#: ../inc/adventurous-default-options.php:149
 msgid "Catch Themes"
 msgstr "Catch Themes"
 

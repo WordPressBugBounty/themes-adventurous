@@ -1337,6 +1337,7 @@ function adventurous_customize_register( $wp_customize ) {
 	) );
 
 	$wp_customize->add_setting( 'adventurous_options[reset_all_settings]', array(
+		'default'			=> $defaults['reset_all_settings'],
 		'capability'		=> 'edit_theme_options',
 		'sanitize_callback' => 'adventurous_sanitize_checkbox',
 		'transport'			=> 'postMessage',

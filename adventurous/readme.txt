@@ -55,6 +55,9 @@ For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
 
+= 3.5.3 (Released: September 22, 2025) =
+* Bug Fixed: Reset all settings issue with PHP
+
 = 3.5.2 (Released: June 21, 2025) =
 * Added: Twitter X, Threads, Bluesky, and Tiktok icons
 

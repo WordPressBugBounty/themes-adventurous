@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Adventurous\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-06-21 20:40+0545\n"
+"POT-Creation-Date: 2025-09-23 12:51+0545\n"
 "PO-Revision-Date: 2016-12-07 14:16-0500\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.6\n"
+"X-Generator: Poedit 3.7\n"
 "X-Poedit-KeywordsList: "
 "__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -343,162 +343,162 @@ msgstr ""
 msgid "Adventurous Theme by"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:127
+#: ../inc/adventurous-default-options.php:128
 msgid "Y"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:148
+#: ../inc/adventurous-default-options.php:149
 msgid "https://catchthemes.com"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:148
+#: ../inc/adventurous-default-options.php:149
 msgid "Catch Themes"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:159
+#: ../inc/adventurous-default-options.php:160
 msgid "Light (Blue)"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:160
+#: ../inc/adventurous-default-options.php:161
 msgid "Dark"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:161
+#: ../inc/adventurous-default-options.php:162
 msgid "Light (Black)"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:175
+#: ../inc/adventurous-default-options.php:176
 msgid "3 Columns"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:176
+#: ../inc/adventurous-default-options.php:177
 msgid "4 Columns"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:190
-#: ../inc/adventurous-default-options.php:258
-#: ../inc/adventurous-default-options.php:305
+#: ../inc/adventurous-default-options.php:191
+#: ../inc/adventurous-default-options.php:259
+#: ../inc/adventurous-default-options.php:306
 msgid "Homepage"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:191
+#: ../inc/adventurous-default-options.php:192
 msgid "Excluding Homepage"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:192
-#: ../inc/adventurous-default-options.php:259
-#: ../inc/adventurous-default-options.php:306
+#: ../inc/adventurous-default-options.php:193
+#: ../inc/adventurous-default-options.php:260
+#: ../inc/adventurous-default-options.php:307
 msgid "Entire Site"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:193
+#: ../inc/adventurous-default-options.php:194
 msgid "Entire Site, Page/Post Featured Image"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:194
+#: ../inc/adventurous-default-options.php:195
 msgid "Pages & Posts"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:195
-#: ../inc/adventurous-default-options.php:260
-#: ../inc/adventurous-default-options.php:307 ../inc/adventurous-metabox.php:50
+#: ../inc/adventurous-default-options.php:196
+#: ../inc/adventurous-default-options.php:261
+#: ../inc/adventurous-default-options.php:308 ../inc/adventurous-metabox.php:50
 msgid "Disable"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:209
-#: ../inc/adventurous-default-options.php:225 ../inc/adventurous-metabox.php:69
+#: ../inc/adventurous-default-options.php:210
+#: ../inc/adventurous-default-options.php:226 ../inc/adventurous-metabox.php:69
 msgid "Full Image"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:210
-#: ../inc/adventurous-default-options.php:226 ../inc/adventurous-metabox.php:74
+#: ../inc/adventurous-default-options.php:211
+#: ../inc/adventurous-default-options.php:227 ../inc/adventurous-metabox.php:74
 msgid "Slider Image"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:211
-#: ../inc/adventurous-default-options.php:227 ../inc/adventurous-metabox.php:64
+#: ../inc/adventurous-default-options.php:212
+#: ../inc/adventurous-default-options.php:228 ../inc/adventurous-metabox.php:64
 msgid "Featured Image"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:228 ../inc/adventurous-metabox.php:79
+#: ../inc/adventurous-default-options.php:229 ../inc/adventurous-metabox.php:79
 msgid "Disable Image"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:242
+#: ../inc/adventurous-default-options.php:243
 msgid "Right Sidebar"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:243
+#: ../inc/adventurous-default-options.php:244
 msgid "Left Sidebar"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:244
+#: ../inc/adventurous-default-options.php:245
 msgid "No Sidebar"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:274
+#: ../inc/adventurous-default-options.php:275
 #: ../inc/panel/customizer/customizer.php:370
 msgid "Full Content Display"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:275
+#: ../inc/adventurous-default-options.php:276
 msgid "Excerpt/Blog Display"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:289
+#: ../inc/adventurous-default-options.php:290
 msgid "Demo"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:290
+#: ../inc/adventurous-default-options.php:291
 msgid "Post"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:291
+#: ../inc/adventurous-default-options.php:292
 msgid "Category"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:321
+#: ../inc/adventurous-default-options.php:322
 msgid "fade"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:322
+#: ../inc/adventurous-default-options.php:323
 msgid "wipe"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:323
-#: ../inc/adventurous-default-options.php:325
+#: ../inc/adventurous-default-options.php:324
+#: ../inc/adventurous-default-options.php:326
 msgid "scrollUp"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:324
+#: ../inc/adventurous-default-options.php:325
 msgid "scrollDown"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:326
+#: ../inc/adventurous-default-options.php:327
 msgid "scrollLeft"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:327
+#: ../inc/adventurous-default-options.php:328
 msgid "scrollRight"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:328
+#: ../inc/adventurous-default-options.php:329
 msgid "blindX"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:329
+#: ../inc/adventurous-default-options.php:330
 msgid "blindY"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:330
+#: ../inc/adventurous-default-options.php:331
 msgid "blindZ"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:331
+#: ../inc/adventurous-default-options.php:332
 msgid "cover"
 msgstr ""
 
-#: ../inc/adventurous-default-options.php:332
+#: ../inc/adventurous-default-options.php:333
 msgid "shuffle"
 msgstr ""
 
@@ -1238,12 +1238,12 @@ msgstr ""
 msgid "Reset all settings"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1347
+#: ../inc/panel/customizer/customizer.php:1348
 msgid "Check to reset all settings to default"
 msgstr ""
 
-#: ../inc/panel/customizer/customizer.php:1357
-#: ../inc/panel/customizer/customizer.php:1368
+#: ../inc/panel/customizer/customizer.php:1358
+#: ../inc/panel/customizer/customizer.php:1369
 msgid "Important Links"
 msgstr ""
 
