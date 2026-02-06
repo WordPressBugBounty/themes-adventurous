@@ -72,16 +72,6 @@ function adventurous_scripts() {
 	if ( ( 'enable-slider-allpage' == $enableslider ) || ( ( is_front_page() || ( is_home() && $page_for_posts != $page_id ) ) && 'enable-slider-homepage' == $enableslider ) ) {
 		wp_enqueue_script( 'adventurous-slider', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/adventurous-slider.js', array( 'jquery-cycle' ), '20140317', true );
 	}
-
-	// Load the html5 shiv.
-	wp_enqueue_script( 'adventurous-html5', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/html5.min.js', array(), '3.7.3' );
-	wp_style_add_data( 'adventurous-html5', 'conditional', 'lt IE 9' );
-
-	wp_enqueue_script( 'selectivizr', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'js/selectivizr.min.js', array( 'jquery' ), '20130114', false );
-	wp_style_add_data( 'selectivizr', 'conditional', 'lt IE 9' );
-
-	wp_enqueue_style( 'adventurous-iecss', trailingslashit( esc_url ( get_template_directory_uri() ) ) . 'css/ie.css' );
-	wp_style_add_data( 'adventurous-iecss', 'conditional', 'lt IE 9' );
 }
 add_action( 'wp_enqueue_scripts', 'adventurous_scripts' );
 

@@ -5,7 +5,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Adventurous\n"
 "Report-Msgid-Bugs-To: https://catchthemes.com/contact-us/\n"
-"POT-Creation-Date: 2025-09-23 12:51+0545\n"
+"POT-Creation-Date: 2025-12-08 23:06+0545\n"
 "PO-Revision-Date: 2016-12-07 14:16-0500\n"
 "Last-Translator: Catch Themes <info@catchthemes.com>\n"
 "Language-Team: Catch Themes <info@catchthemes.com>\n"
@@ -14,7 +14,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 3.7\n"
+"X-Generator: Poedit 3.8\n"
 "X-Poedit-KeywordsList: "
 "__;_e;_x;esc_html_e;esc_html__;esc_attr_e;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
 "X-Poedit-SourceCharset: UTF-8\n"
@@ -75,7 +75,7 @@ msgstr ""
 #: ../content-aside.php:20 ../content-audio.php:20 ../content-chat.php:21
 #: ../content-gallery.php:24 ../content-gallery.php:41 ../content-gallery.php:42
 #: ../content-image.php:22 ../content-search.php:16 ../content-video.php:23
-#: ../content.php:31 ../inc/adventurous-functions.php:148
+#: ../content.php:31 ../inc/adventurous-functions.php:138
 #, php-format
 msgid "Permalink to %s"
 msgstr ""
@@ -502,143 +502,143 @@ msgstr ""
 msgid "shuffle"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:640 ../inc/panel/customizer/customizer.php:657
+#: ../inc/adventurous-functions.php:630 ../inc/panel/customizer/customizer.php:657
 msgid "Facebook"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:645 ../inc/panel/customizer/customizer.php:667
+#: ../inc/adventurous-functions.php:635 ../inc/panel/customizer/customizer.php:667
 msgid "Twitter"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:650 ../inc/panel/customizer/customizer.php:677
+#: ../inc/adventurous-functions.php:640 ../inc/panel/customizer/customizer.php:677
 msgid "X Twitter"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:655 ../inc/panel/customizer/customizer.php:687
+#: ../inc/adventurous-functions.php:645 ../inc/panel/customizer/customizer.php:687
 msgid "Google+"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:660 ../inc/panel/customizer/customizer.php:727
+#: ../inc/adventurous-functions.php:650 ../inc/panel/customizer/customizer.php:727
 msgid "LinkedIn"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:665 ../inc/panel/customizer/customizer.php:697
+#: ../inc/adventurous-functions.php:655 ../inc/panel/customizer/customizer.php:697
 msgid "Pinterest"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:670
+#: ../inc/adventurous-functions.php:660
 msgid "YouTube"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:675 ../inc/panel/customizer/customizer.php:717
+#: ../inc/adventurous-functions.php:665 ../inc/panel/customizer/customizer.php:717
 msgid "Vimeo"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:680
+#: ../inc/adventurous-functions.php:670
 msgid "SlideShare"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:685
+#: ../inc/adventurous-functions.php:675
 msgid "FourSquare"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:690 ../inc/panel/customizer/customizer.php:757
+#: ../inc/adventurous-functions.php:680 ../inc/panel/customizer/customizer.php:757
 msgid "Flickr"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:695 ../inc/panel/customizer/customizer.php:767
+#: ../inc/adventurous-functions.php:685 ../inc/panel/customizer/customizer.php:767
 msgid "Tumblr"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:700 ../inc/panel/customizer/customizer.php:777
+#: ../inc/adventurous-functions.php:690 ../inc/panel/customizer/customizer.php:777
 msgid "deviantART"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:705 ../inc/panel/customizer/customizer.php:787
+#: ../inc/adventurous-functions.php:695 ../inc/panel/customizer/customizer.php:787
 msgid "Dribbble"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:710 ../inc/panel/customizer/customizer.php:797
+#: ../inc/adventurous-functions.php:700 ../inc/panel/customizer/customizer.php:797
 msgid "MySpace"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:715 ../inc/panel/customizer/customizer.php:807
+#: ../inc/adventurous-functions.php:705 ../inc/panel/customizer/customizer.php:807
 msgid "WordPress"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:720 ../inc/panel/customizer/customizer.php:817
+#: ../inc/adventurous-functions.php:710 ../inc/panel/customizer/customizer.php:817
 msgid "RSS"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:725 ../inc/panel/customizer/customizer.php:827
+#: ../inc/adventurous-functions.php:715 ../inc/panel/customizer/customizer.php:827
 msgid "Delicious"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:730 ../inc/panel/customizer/customizer.php:837
+#: ../inc/adventurous-functions.php:720 ../inc/panel/customizer/customizer.php:837
 msgid "Last.fm"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:735 ../inc/panel/customizer/customizer.php:847
+#: ../inc/adventurous-functions.php:725 ../inc/panel/customizer/customizer.php:847
 msgid "Instagram"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:740 ../inc/panel/customizer/customizer.php:857
+#: ../inc/adventurous-functions.php:730 ../inc/panel/customizer/customizer.php:857
 msgid "GitHub"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:745 ../inc/panel/customizer/customizer.php:867
+#: ../inc/adventurous-functions.php:735 ../inc/panel/customizer/customizer.php:867
 msgid "Vkontakte"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:750 ../inc/panel/customizer/customizer.php:877
+#: ../inc/adventurous-functions.php:740 ../inc/panel/customizer/customizer.php:877
 msgid "My World"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:755 ../inc/panel/customizer/customizer.php:887
+#: ../inc/adventurous-functions.php:745 ../inc/panel/customizer/customizer.php:887
 msgid "Odnoklassniki"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:760
+#: ../inc/adventurous-functions.php:750
 msgid "GoodReads"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:765 ../inc/panel/customizer/customizer.php:907
+#: ../inc/adventurous-functions.php:755 ../inc/panel/customizer/customizer.php:907
 msgid "Skype"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:770
+#: ../inc/adventurous-functions.php:760
 msgid "SoundCloud"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:775 ../inc/panel/customizer/customizer.php:927
+#: ../inc/adventurous-functions.php:765 ../inc/panel/customizer/customizer.php:927
 msgid "Email"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:780 ../inc/panel/customizer/customizer.php:937
+#: ../inc/adventurous-functions.php:770 ../inc/panel/customizer/customizer.php:937
 msgid "Contact"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:785 ../inc/panel/customizer/customizer.php:947
+#: ../inc/adventurous-functions.php:775 ../inc/panel/customizer/customizer.php:947
 msgid "Xing"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:790 ../inc/panel/customizer/customizer.php:957
+#: ../inc/adventurous-functions.php:780 ../inc/panel/customizer/customizer.php:957
 msgid "Meetup"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:795 ../inc/panel/customizer/customizer.php:967
+#: ../inc/adventurous-functions.php:785 ../inc/panel/customizer/customizer.php:967
 msgid "Bluesky"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:800 ../inc/panel/customizer/customizer.php:977
+#: ../inc/adventurous-functions.php:790 ../inc/panel/customizer/customizer.php:977
 msgid "Tiktok"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:805 ../inc/panel/customizer/customizer.php:987
+#: ../inc/adventurous-functions.php:795 ../inc/panel/customizer/customizer.php:987
 msgid "Threads"
 msgstr ""
 
-#: ../inc/adventurous-functions.php:828
+#: ../inc/adventurous-functions.php:818
 msgid "ID"
 msgstr ""
 

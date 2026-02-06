@@ -2,7 +2,7 @@
 Contributors: catchthemes
 Tags: black, blue, gray, green, white, dark,light, one-column, two-columns, left-sidebar, right-sidebar, fixed-layout, fluid-layout, responsive-layout, custom-background, custom-colors, custom-header, custom-menu, featured-image-header, featured-images, flexible-header, front-page-post-form, full-width-template, post-formats, sticky-post, theme-options, threaded-comments, translation-ready, holiday, photoblogging
 Requires at least: 5.9
-Tested up to: 6.8
+Tested up to: 6.9
 Requires PHP: 5.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -54,6 +54,10 @@ You can check our Theme Demo at https://catchthemes.com/demo/adventurous/
 For more FAQs, visit https://catchthemes.com/frequently-asked-questions/
 
 == Changelog ==
+
+= 3.6 (Released: December 08, 2025) =
+* Bug Fixed: Deprecated Function WP_Dependencies-add_data() warning after WordPress update 6.9
+* Updated: WordPress 6.9 ready
 
 = 3.5.3 (Released: September 22, 2025) =
 * Bug Fixed: Reset all settings issue with PHP
@@ -348,7 +352,6 @@ Adventurous is distributed under the terms of the GNU GPL
     Header Image: https://stocksnap.io/photo/swan-river-7VITJYYH6K
 
     All other images are self-shot by Catch Themes and released under same license as theme.
-
 
 * Font Icons
 	Genericons by Automattic, Inc.
